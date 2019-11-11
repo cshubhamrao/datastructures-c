@@ -3,6 +3,7 @@
 # Edit at https://www.gitignore.io/?templates=c,code,linux,macos
 
 ### C ###
+.cquery_cache
 # Prerequisites
 *.d
 
