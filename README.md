@@ -1,14 +1,16 @@
-Data Structures and Algorithms (using C)
+[WIP] Data Structures and Algorithms (using C)
 ========================================
 
 Implementations of various data structures and algorithms from CSE 223: Data Structures and Algorithms Using C class.
+
+**Note:** This repository is a WORK IN PROGRESS. You're welcome to contribute to it.
 
 Contents
 --------
 (To be updated)
 ### Data structures
 1. [ ] Lists
-    - [ ] Singly Linked Lists
+    - [x] Singly Linked Lists
     - [ ] Doubly Linked Lists
     - [ ] Circular Lists
 1. [ ] Stacks
