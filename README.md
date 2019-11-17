@@ -9,8 +9,8 @@ Contents
 --------
 (To be updated)
 ### Data structures
-1. [ ] Lists
-    - [x] Singly Linked Lists
+1. [ ] [Lists](./datastructures/lists)
+    - [x] [Singly Linked Lists](./datastructures/lists/SLList)
     - [ ] Doubly Linked Lists
     - [ ] Circular Lists
 1. [ ] Stacks
